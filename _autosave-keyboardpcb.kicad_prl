@@ -5,7 +5,7 @@
     "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
-    "high_contrast_mode": 1,
+    "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
       "images": 0.6,
@@ -59,7 +59,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "keyboardpcb.kicad_prl",
+    "filename": "_autosave-keyboardpcb.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -90,14 +90,14 @@
     "col_widths": [
       186,
       171,
-      113,
+      112,
       79,
-      113,
-      113,
-      113,
+      112,
+      112,
+      112,
       83,
-      113,
-      113
+      112,
+      112
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
